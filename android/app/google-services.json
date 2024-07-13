@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "980365155640",
+    "firebase_url": "https://english-teach-app-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "english-teach-app",
+    "storage_bucket": "english-teach-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980365155640:android:f0881b196efccf9160f5cd",
+        "android_client_info": {
+          "package_name": "com.example.teach_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980365155640-1g9ob8oqlotofdjnj7loifkd882vki2u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBIaak-WOCJbNrg6mD2Xg8Z75c5LApuuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980365155640-1g9ob8oqlotofdjnj7loifkd882vki2u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "980365155640-n87mkham3nnf5l2rkiugs51l76fnnl91.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.teachApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
